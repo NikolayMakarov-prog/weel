@@ -17,4 +17,4 @@ def post(access_token):
             print("post_id = {0}".format(post_id))
 
 
-post(access_token="a2e9f16c7d5b3b18f2add4934137c93e22ddce8468ff515e19f9be99615534e062c0b134de63e4048eab9")
+post(access_token="")
